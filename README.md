@@ -1,13 +1,9 @@
-# sanber-mobileAutomation
+#Git ini berisi Tugas Akhir 2 (Mobile Automation)
+Tugas Akhir 1 (Cucumber) dapat di akses : https://github.com/eviindah33/Tugas-Akhir-QA-Automation-Sanbercode/tree/master
 
-How to Start
+Link Dokumentasi (Spreadsheet dan Video Recording) Tugas Akhir : https://drive.google.com/drive/folders/1_zgGcB09Z7vW4apfRbIL7Ma85OaSwtiP
 
-Install 
-1. Node JS
-2. Java SDK & JAVA_HOME
-3. Android Studio & ANDROID_HOME
-4. Appium Desktop
-5. Install package.json with command
+
 
 ```
   npm install

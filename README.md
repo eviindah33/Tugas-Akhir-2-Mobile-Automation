@@ -1,7 +1,9 @@
-#Git ini berisi Tugas Akhir 2 (Mobile Automation)
+## Git ini berisi Tugas Akhir 2 (Mobile Automation)
 
+- Download and install apk : https://bit.ly/ex-apk-diet 
 
-Tugas Akhir 1 (Cucumber) dapat di akses : https://github.com/eviindah33/Tugas-Akhir-QA-Automation-Sanbercode/tree/master
+- Use webdriver.io (wdio) and appium to create automation flow
+
 
 Link Dokumentasi (Spreadsheet dan Video Recording) Tugas Akhir : https://drive.google.com/drive/folders/1_zgGcB09Z7vW4apfRbIL7Ma85OaSwtiP
 

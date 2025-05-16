@@ -5,7 +5,8 @@
 - Use webdriver.io (wdio) and appium to create automation flow
 
 
-Link Dokumentasi (Spreadsheet dan Video Recording) Tugas Akhir : https://drive.google.com/drive/folders/1_zgGcB09Z7vW4apfRbIL7Ma85OaSwtiP
+#### Document Test Scenario and Test Case : https://docs.google.com/spreadsheets/d/1eogmcx9_eONur1bOOk9UD3Npg5Kp50i_/edit?usp=sharing&ouid=115355384660701314557&rtpof=true&sd=true
+#### Video Recording : https://drive.google.com/file/d/12c6lCM6z0L3yxIJPJVifgxgpBocxMkDD/view?usp=sharing
 
 
 
